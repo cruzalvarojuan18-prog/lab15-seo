@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lab15-seo.vercel.app/sitemap.xml
+Sitemap: https://lab15-seo-coral.vercel.app/sitemap.xml
